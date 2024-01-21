@@ -18,7 +18,7 @@ description="Custom build for Kodi on Fire TV devices."
 
 name="Lazyp1g Build (for Android phones and tablets)"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/uxr1v5qoyud4z07p08mv3/lazyp1gbuild2.zip?rlkey=fbpcn0f55sbmhpqdhar2uwykr&dl=1"
+url="https://bit.ly/3U8KVyJ"
 minor="http://"
 gui="url.to.guisettings"
 kodi="20.3"
