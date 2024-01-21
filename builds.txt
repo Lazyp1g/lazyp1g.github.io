@@ -13,7 +13,7 @@ icon="https://i.imgur.com/aAI1SAI.png"
 fanart="https://i.imgur.com/TNKYkU8.png"
 preview="https://"
 adult="no"
-info="http://
+info="http://"
 description="Custom build for Kodi on Fire TV devices."
 
 name="Lazyp1g Build (for Android phones and tablets)"
